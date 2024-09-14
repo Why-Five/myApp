@@ -8,6 +8,7 @@ export default function Index () {
   })
 
   let a ="第一个变量"
+  let b ="第二个变量"
   const arr =['abc','hhh','xxxxxx']
   const obj ={
     name:'yyy',
